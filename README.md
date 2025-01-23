@@ -29,7 +29,7 @@ Ticket Chain is a blockchain-based ticketing platform designed to revolutionize 
 - Blockchain-based reporting for transparency.
 
 ### 5. Crypto-Exclusive Package
-- Discounts and bonuses for payments via PI Network.
+- Discounts and bonuses for payments via .........
 
 ## How It Works
 
@@ -42,7 +42,7 @@ Ticket Chain is a blockchain-based ticketing platform designed to revolutionize 
 
 ### Q1:
 - Development of basic ticketing features.
-- Integration of PI Network payments.
+- Integration of ..........
 
 ### Q2:
 - Partnerships with airlines for Travel Package.
