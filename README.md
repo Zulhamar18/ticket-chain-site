@@ -5,7 +5,7 @@ Ticket Chain is a blockchain-based ticketing platform designed to revolutionize 
 ## Features
 
 - **Blockchain Integration**: Eliminates ticket fraud and ensures transparency.
-- **Cryptocurrency Payments**: Supports payments using PI Network and other cryptocurrencies.
+- **Cryptocurrency Payments**: Supports payments using BNB and other cryptocurrencies.
 - **Multi-Event Support**: Covers sporting events, concerts, flights, and more.
 - **Eco-Friendly**: Reduces the need for paper tickets with digital solutions.
 - **Global Accessibility**: Seamless ticketing for users worldwide.
