@@ -72,7 +72,7 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contact
 
-For inquiries or collaborations, reach out to us at [zulhamardiansyah@yahoo.com] (mailto:zulhamardiansyah@yahoocom).
+For inquiries or collaborations, reach out to us at [zulhamardiansyah@yahoo.com] (mailto:zulhamardiansyah@yahoo.com).
 
 ---
 
